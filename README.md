@@ -1,3 +1,6 @@
+For the backend of this project you must use the one found in the backend folder of the project: 
+### javascript-full-stack-webpack-mdb 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
